@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://astrawan.github.io/sitemap.xml
