@@ -1,0 +1,4 @@
+  {{ $jsUtterances := resources.Get "js/utterances.js" }}
+  {{ $jsUtterances = $jsUtterances | resources.Minify | resources.Fingerprint "sha512" }}
+  <script type="text/javascript" src="{{ $jsUtterances.RelPermalink }}"
+    integrity="{{ $jsUtterances.Data.Integrity }}"></script>
