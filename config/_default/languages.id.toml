@@ -1,8 +1,8 @@
-languageCode = "en"
-languageName = "English"
-displayName = "🇬🇧 &nbsp;"
-isoCode = "en"
-weight = 1
+languageCode = "id"
+languageName = "Indonesia"
+displayName = "&nbsp; 🇮🇩"
+isoCode = "id"
+weight = 2
 rtl = false
 
 title = "Astrawan Blog"
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Astrawan Wayan"
   image = "img/author.jpg"
-  headline = "Software Developer and Tech Enthusiast"
-  bio = "Software Developer and Tech Enthusiast"
+  headline = "Pengembang Software dan Penggiat Teknologi"
+  bio = "Pengembang Software dan Penggiat Teknologi"
   links = [
     { email = "mailto:astrawan@icloud.com" },
   #   { link = "https://link-to-some-website.com/" },
